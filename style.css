@@ -116,6 +116,7 @@ header .button-div{
     height: 120vh;
     display: flex;
     flex-direction: column;
+    top: 70px;
 }
 
 .main-container .weekdays{
